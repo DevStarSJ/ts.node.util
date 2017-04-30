@@ -1,0 +1,12 @@
+{
+  "Tokyo" : {
+    "region": "your_region",
+    "accessKeyId": "your_id",
+    "secretAccessKey": "your_key"
+  },
+  "TokyoKinesis" : {
+    "region": "your_region",
+    "accessKeyId": "your_id",
+    "secretAccessKey": "your_key"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ts.node.util",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevStarSJ/ts.node.util"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/DevStarSJ/ts.node.util#readme",
+  "dependencies": {
+    "exif": "^0.6.0",
+    "bluebird": "^3.5.0",
+    "lodash": "^4.17.4",
+    "mysql": "^2.13.0",
+    "promise": "^7.1.1",
+    "raygun": "^0.9.1",
+    "request": "^2.81.0",
+    "squel": "^5.9.0"
+  },
+  "devDependencies": {
+    "@types/mysql": "0.0.32",
+    "@types/node": "^7.0.12",
+    "@types/promise": "^7.1.30",
+    "@types/request": "0.0.42",
+    "@types/bluebird": "^3.5.2",
+    "aws-sdk": "^2.39.0"
+  }
+}
